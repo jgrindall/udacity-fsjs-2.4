@@ -1,0 +1,5 @@
+build
+.ipynb_checkpoints
+migrations/.ipynb_checkpoints/20210217234627-users-table-checkpoint.js migrations/.ipynb_checkpoints/20210218043210-products-table-checkpoint.js migrations/.ipynb_checkpoints/20210218043225-orders-table-checkpoint.js migrations/.ipynb_checkpoints/20210218043835-order-products-table-checkpoint.js migrations/.ipynb_checkpoints/20210222050518-books-table-checkpoint.js src/.ipynb_checkpoints/database-checkpoint.ts
+node_modules
+dist
